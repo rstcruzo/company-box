@@ -171,7 +171,7 @@
 
 (defvar company-box-icons-idea
   (eval-when-compile
-    `((Unknown . ,(company-box-icons-image "idea/package.png"))
+    `((Unknown . ,(company-box-icons-image "idea/advice.png"))
       ;; (Text . ,(company-box-icons-image "idea/misc.png"))
       (Method . ,(company-box-icons-image "idea/method.png"))
       (Function . ,(company-box-icons-image "idea/method.png"))
